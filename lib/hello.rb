@@ -5,7 +5,6 @@ def hello_t(array)
     while i < array.length
       yield array[i]
     
-    end
 
     array
   else
