@@ -10,4 +10,4 @@ def hello_t(array)
     array
 end
 
-hello_t(array)
+puts hello_t()
