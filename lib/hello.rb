@@ -9,4 +9,4 @@ def hello_t(array)
   array
 end
 
-hello_t(names)
+hello_t()
